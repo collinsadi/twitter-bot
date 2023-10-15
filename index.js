@@ -28,7 +28,7 @@ const tweet = async () => {
   }
 }
 
-// tweet()
+tweet()
 
 
 
